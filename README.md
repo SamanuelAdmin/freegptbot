@@ -14,13 +14,13 @@ This project based on *Telegrambots* framework. As a free ChatGPT API has been u
 2. Download and install [Intellij IDEA](https://www.jetbrains.com/idea/download/?section=linux) (you also need to setup it with *Maven* with 21+ version).
 3. Install [python interpreter](https://www.python.org/downloads/) (*you can use python 3.9+*).
 https://www.python.org/downloads/
-4. Start python server with startAIserver.sh file:
+4. Install dependences using `python -m pip install -r requirements.txt`
+5. Start python server with startAIserver.sh file:
  ```bash
-  chmod +x startAIserver.sh
- ./startAIserver.sh
+  python3 aiApi.py
 ```
-5. Change configs in the Main.java file (input your bot's token and bot's name).
-6. Finnaly start telegram bot (using Main.java file) and has a good exp!
+6. Change configs in the Main.java file (input your bot's token and bot's name).
+7. Finnaly start telegram bot (using Main.java file) and has a good exp!
 
 --------
 

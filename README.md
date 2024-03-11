@@ -33,3 +33,12 @@ Java:
 Python:
  * [GPT4Free](https://pypi.org/project/gpt4free/)
  * Basic python modules and packages (socket, threading, re, datetime)
+
+
+<hr>
+<h3>Support</h3>
+<p>If <i></i>you enjoy my projects</i> or that <i>was helpful</i>, you can support me by donation.</p>
+
+`
+Visa: 4441 1144 6743 1589
+`
